@@ -8,7 +8,7 @@ describe('Return the nth term n a fibonaci series', function(){
     
 
     //First Test
-    it('1st term in the fib series is 1', function(){
+    it('1st term in the fib serie is 1', function(){
         assert.equal(fibonacci(1), 1);
     });
     //Second Test
